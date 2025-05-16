@@ -694,6 +694,7 @@ dependencies = [
  "chrono",
  "num-bigint",
  "prost",
+ "prost-types",
  "serde",
  "serde_json",
  "substreams",
